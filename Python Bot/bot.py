@@ -219,4 +219,4 @@ async def helpme(ctx):
 async def change_status():
     await client.change_presence(activity=discord.Game(choice(status)))
 
-client.run('ODI0NDg0NjQzNDY1MzMwNzA5.YFwDKQ.iFaVKodewydIs98v17KQAS5vejA')
+client.run('YOUR TOKEN')
